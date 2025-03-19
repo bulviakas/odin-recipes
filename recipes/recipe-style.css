@@ -1,0 +1,37 @@
+h1,
+h2,
+.description {
+    text-align: center;
+}
+
+h1,
+h2 {
+    color: rgb(255, 136, 0);
+    background-color: lightyellow;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+    font-weight: bolder;
+    background-color: rgba(255, 251, 0, 0.541);
+}
+
+img {
+    width: 650px;
+    height: auto;
+}
+
+.description {
+    color: rgb(255, 102, 0);
+    font-weight: 500;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#wishes {
+    font-weight: bold;
+    color: rgb(255, 136, 0);
+    font-size: 20px;
+}
