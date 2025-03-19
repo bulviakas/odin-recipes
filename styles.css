@@ -1,0 +1,21 @@
+h1 {
+    background-color: lavenderblush;
+    text-align: center;
+    color: hotpink;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 48px;
+}
+
+.recipe {
+     color: blueviolet;
+     font-size: 28px;
+     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     background-color: lavender;
+}
+
+.dessert {
+    background-color: lightgoldenrodyellow;
+    font-weight: bold;
+}
+
+
